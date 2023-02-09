@@ -40,7 +40,8 @@ jobs:
     - name: Run the scraper
       run: |
         python test-scraper.py
-    - name: Push changes
-      uses: actions-go/push@v1
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
-        commit-message: "Daily JSON scraped"
+        commit_message: "Updated daily json"
+        branch: "main"
