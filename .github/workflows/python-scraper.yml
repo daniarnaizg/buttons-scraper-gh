@@ -41,6 +41,8 @@ jobs:
         python test-scraper.py
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.16.0
+       env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         commit_message: "Updated daily json"
         branch: "main"
