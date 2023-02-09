@@ -52,8 +52,8 @@ if __name__ == '__main__':
 
     print(f'[INFO] {len(full_list)} total found')
 
-    print(final_dict)
+    # print(final_dict)
 
     # save to json file
-    with open('./data/instants.json', 'w', encoding='UTF-8') as f:
+    with open('./data/instants.json', 'w') as f:
         json.dump(final_dict, f)
