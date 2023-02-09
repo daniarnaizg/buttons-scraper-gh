@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
     # save to json file
     with open('./data/instants.json', 'w') as f:
-        json.dump(full_list, f)
+        json.dump(final_dict, f)
