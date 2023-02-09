@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import re
 import json
 
 BASE_URL = "https://www.myinstants.com/es/index/es/"
@@ -42,13 +41,13 @@ if __name__ == '__main__':
 
     for page in pages:
 
-        print(f'Getting page: {page}...')
+        print(f'[INFO] Getting page: {page}...')
         
         content = requests.get(page, headers=HEADERS).content
         instants = get_instants(content)
         full_list.extend(instants)
     
-    print(f'{len(full_list)} total found')
+    print(f'[INFO] {len(full_list)} total found')
 
     # save to json file
     with open('./data/instants.json', 'w') as f:
