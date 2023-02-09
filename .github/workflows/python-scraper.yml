@@ -1,9 +1,11 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Python application
+name: Scraper
 
 on:
+  schedule:
+  - cron: '0 8 * * *'
   push:
     branches: [ "main" ]
   pull_request:
