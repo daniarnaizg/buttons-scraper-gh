@@ -25,13 +25,15 @@ def get_instants(content):
     url_list = []
     soup = BeautifulSoup(content, 'html.parser')
     instants = soup.find_all(class_="small-button")
-    print(f'{len(instants)} found')
+    print(f'[INFO] {len(instants)} found')
     for item in instants:
-        sound_title = str(item['title'].split('Reproduce el sonido de ')[1].strip())
+        sound_title = str(item['title'].split(
+            'Reproduce el sonido de ')[1].strip())
         media_url = str(item['onclick'].split('\'')[1].strip())
         url_list.append(
             {'url': f'https://www.myinstants.com{media_url}', 'title': sound_title})
     return url_list
+
 
 # main
 if __name__ == '__main__':
@@ -41,18 +43,14 @@ if __name__ == '__main__':
 
     for page in pages:
 
-        print(f'[INFO] Getting page: {page}...')
-        
+        print(f'[INFO] Getting page: {page}')
+
         content = requests.get(page, headers=HEADERS).content
         instants = get_instants(content)
         full_list.extend(instants)
-    
+
     print(f'[INFO] {len(full_list)} total found')
 
     # save to json file
     with open('./data/instants.json', 'w') as f:
         json.dump(full_list, f)
-    
-    
-
-    
