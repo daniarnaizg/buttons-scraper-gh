@@ -1,7 +1,7 @@
-from bs4 import BeautifulSoup
 import requests
 import json
 import time
+from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.myinstants.com"
 GLOBAL_EN = "/en/best_of_all_time/us/"
@@ -30,7 +30,7 @@ def get_instants(content, lang='en'):
     soup = BeautifulSoup(content, 'html.parser')
     instants = soup.find_all(class_="small-button")
     print(f'[INFO] {len(instants)} found')
-    for item in instants: 
+    for item in instants:
         if lang == 'en':
             # "Play XXXXXX sound"
             sound_title = str(item['title'].split(
