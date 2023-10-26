@@ -20,7 +20,7 @@ HEADERS = {
 }
 
 
-def get_pages(n_pages=3, url=BASE_URL):
+def get_pages(url=BASE_URL, n_pages=3):
     pages = []
     for i in range(1, n_pages + 1):
         pages.append(url + f'?page={str(i)}')
@@ -47,8 +47,8 @@ def get_instants(content, lang='en'):
     return url_list
 
 
-def get_content(category, lang='en'):
-    pages = get_pages(url=BASE_URL + category)
+def get_content(category, lang='en', n_pages=3):
+    pages = get_pages(url=BASE_URL + category, n_pages = n_pages)
     current_list = []
     for page in pages:
         content = requests.get(page, headers=HEADERS).content
@@ -87,11 +87,10 @@ if __name__ == '__main__':
     
     ############ TIKTOK 
 
-    tiktok = []
     print('[INFO] Getting TikTok')
-    tiktok.append(get_content(TIKTOK_EN, lang='en'))
+    tiktok_json = get_content(TIKTOK_EN, lang='en', n_pages=6)
 
     with open('./data/tiktok.json', 'w', encoding='UTF-8') as f:
-        json.dump(tiktok, f)
+        json.dump(tiktok_json, f)
 
 
