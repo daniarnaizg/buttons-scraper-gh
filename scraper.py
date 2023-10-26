@@ -9,7 +9,7 @@ TRENDING_EN = "/en/index/us/"
 GLOBAL_ES = "/es/best_of_all_time/es/"
 TRENDING_ES = "/es/index/es/"
 
-TIKTOK_EN = "en/categories/tiktok%20trends/"
+TIKTOK_EN = "en/categories/tiktok trends/"
 
 HEADERS = {
     'Access-Control-Allow-Origin': '*',
