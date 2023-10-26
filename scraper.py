@@ -9,6 +9,8 @@ TRENDING_EN = "/en/index/us/"
 GLOBAL_ES = "/es/best_of_all_time/es/"
 TRENDING_ES = "/es/index/es/"
 
+TIKTOK_EN = "en/categories/tiktok%20trends/"
+
 HEADERS = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET',
@@ -59,6 +61,8 @@ def get_content(category, lang='en'):
 # main
 if __name__ == '__main__':
 
+    ############ GENERAL
+
     final_dict = {}
 
     print(f'[INFO] Timestamp: {str(time.time()).split(".")[0]}')
@@ -79,3 +83,15 @@ if __name__ == '__main__':
     # save to json file
     with open('./data/instants.json', 'w', encoding='UTF-8') as f:
         json.dump(final_dict, f)
+
+    
+    ############ TIKTOK 
+
+    tiktok = []
+    print('[INFO] Getting TikTok')
+    tiktok.append(get_content(TIKTOK_EN, lang='en'))
+
+    with open('./data/tiktok.json', 'w', encoding='UTF-8') as f:
+        json.dump(tiktok, f)
+
+
