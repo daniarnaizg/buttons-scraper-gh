@@ -81,7 +81,7 @@ def scrape_songs(url):
     soup = BeautifulSoup(html, 'html.parser')
     items = soup.find_all('div', class_='flex flex-col col-span-full sm:col-span-6 xl:col-span-4 bg-white rounded-xl')
 
-    songs_output = []
+    # songs_output = []
     for item in items:
         try:
             img = item.find('img').get('src')
@@ -101,14 +101,14 @@ def scrape_songs(url):
 
         tiktok_url = item.find('a', class_='text-sm flex items-center gap-1 text-slate-600 md:mr-2').get('href')
 
-        songs_output.append({
+        songs_output = {
             'id': data_id,
             'img': img,
             'author': author,
             'title': title,
             'growing_number': growing_number,
             'tiktok_url': tiktok_url
-        })
+        }
 
     return songs_output
 
