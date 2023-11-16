@@ -211,13 +211,11 @@ if __name__ == '__main__':
         }
     ]
 
-    combined_songs_output = [
-        {
+    combined_songs_output = {
             'global': global_songs_output,
             'growing': growing_songs_output,
             'countries': combined_country_songs_output
         }
-    ]
 
     # save combined output
     with open('./data/tokchart_songs.json', 'w', encoding='UTF-8') as f:
