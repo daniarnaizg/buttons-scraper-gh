@@ -200,7 +200,7 @@ if __name__ == '__main__':
     mexico_songs_url = BASE_URL + 'trending/MX'
     mexico_songs_output = scrape_country_songs(mexico_songs_url)
 
-    combined_country_songs_output = [{
+    combined_country_songs_output = {
             'spain': spain_songs_output,
             'usa': usa_songs_output,
             'uk': uk_songs_output,
@@ -209,7 +209,6 @@ if __name__ == '__main__':
             'france': france_songs_output,
             'mexico': mexico_songs_output
         }
-    ]
 
     combined_songs_output = {
             'global': global_songs_output,
