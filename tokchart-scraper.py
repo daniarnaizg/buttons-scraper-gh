@@ -151,12 +151,10 @@ if __name__ == '__main__':
     hashtags_url = BASE_URL + 'hashtags'
     hashtags_output = scrape_hashtags(hashtags_url)
 
-    combined_output = [
-        {
+    combined_output = {
             'filters': filters_output,
             'hashtags': hashtags_output
         }
-    ]
 
     # save combined output
     with open('./data/tokchart.json', 'w', encoding='UTF-8') as f:
