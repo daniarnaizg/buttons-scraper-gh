@@ -19,6 +19,23 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
 }
 
+NAME_EXCEPTIONS = [
+    'sexo',
+    's3x0',
+    's3xo',
+    'sex0',
+    'porn',
+    'p0rn',
+    'p0rno',
+    'p0rn0',
+    'pussy',
+    'pussi',
+    'puss1',
+    'puta',
+    'put0',
+    'put4',
+]
+
 
 def get_pages(url=BASE_URL, n_pages=3):
     pages = []
@@ -42,6 +59,13 @@ def get_instants(content, lang='en'):
             sound_title = str(item['title'].split(
                 'Reproduce el sonido de ')[1].strip())
         media_url = str(item['onclick']).split('\'')[1].strip()
+
+        # if any word in NAME_EXCEPTIONS is in sound_title, change the sound_title to {first_letter}***{last_letter}
+        for word in NAME_EXCEPTIONS:
+            if word in sound_title.lower():
+                sound_title = sound_title[0] + '***' + sound_title[-1]
+                break
+
         url_list.append(
             {'url': f'https://www.myinstants.com{media_url}', 'title': sound_title})
     return url_list
