@@ -15,18 +15,18 @@
             "tiktok_url": "https://www.tiktok.com/sticker/oldish-ii-x-mahalini-1399522"
         },
         {
-            "id": "1366674",
-            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/5e67861ed291ee62db4c513cc30d37f3",
-            "title": "SOFECITO",
-            "grow_number": "+5M",
-            "tiktok_url": "https://www.tiktok.com/sticker/sofecito-1366674"
-        },
-        {
             "id": "1426302",
             "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/275f0269d9ef7905d9980eb8c5b692b3",
             "title": "Rumput Tetangga",
             "grow_number": "+4M",
             "tiktok_url": "https://www.tiktok.com/sticker/rumput-tetangga-1426302"
+        },
+        {
+            "id": "1832680",
+            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/680b4f8a8599bd4d5a407f085b0a8697",
+            "title": "Maple",
+            "grow_number": "+3M",
+            "tiktok_url": "https://www.tiktok.com/sticker/maple-1832680"
         },
         {
             "id": "1455254",
@@ -36,39 +36,39 @@
             "tiktok_url": "https://www.tiktok.com/sticker/indie-k-1455254"
         },
         {
-            "id": "1255648",
-            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/cb491c8ee123e3b02b93164ef1abb8ef",
-            "title": "Oldish",
-            "grow_number": "+2M",
-            "tiktok_url": "https://www.tiktok.com/sticker/oldish-1255648"
-        },
-        {
-            "id": "1665204",
-            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/8fd0901546ef7b0740b7e68df3d4ba8b",
-            "title": "Girl Oldish",
+            "id": "1664662",
+            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/3d614bed30888e829a05ac19bdbd7511",
+            "title": "Mono",
             "grow_number": "+1M",
-            "tiktok_url": "https://www.tiktok.com/sticker/girl-oldish-1665204"
-        },
-        {
-            "id": "3752966",
-            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/07837df534b82a6c8da8bf6136bc8a60",
-            "title": "Indie Kid",
-            "grow_number": "+1M",
-            "tiktok_url": "https://www.tiktok.com/sticker/indie-kid-3752966"
+            "tiktok_url": "https://www.tiktok.com/sticker/mono-1664662"
         },
         {
             "id": "1282130",
             "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/de925739871c1ed1301a983f75c348ff",
             "title": "One and Only",
-            "grow_number": "+967K",
+            "grow_number": "+966K",
             "tiktok_url": "https://www.tiktok.com/sticker/one-and-only-1282130"
         },
         {
-            "id": "1106864",
+            "id": "1122599",
             "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/ec8ad78e0a7c17172eaa5bd0f844280b",
             "title": "Gold Coast",
-            "grow_number": "+715K",
-            "tiktok_url": "https://www.tiktok.com/sticker/gold-coast-1106864"
+            "grow_number": "+760K",
+            "tiktok_url": "https://www.tiktok.com/sticker/gold-coast-1122599"
+        },
+        {
+            "id": "1122600",
+            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/ec8ad78e0a7c17172eaa5bd0f844280b",
+            "title": "Gold Coast",
+            "grow_number": "+760K",
+            "tiktok_url": "https://www.tiktok.com/sticker/gold-coast-1122600"
+        },
+        {
+            "id": "1122584",
+            "img": "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/ec8ad78e0a7c17172eaa5bd0f844280b",
+            "title": "Gold Coast",
+            "grow_number": "+760K",
+            "tiktok_url": "https://www.tiktok.com/sticker/gold-coast-1122584"
         }
     ],
     "hashtags": [
@@ -97,15 +97,8 @@
             "id": "198092",
             "img": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/af91139d1f9391bbc4b25f4d036e5b48.png",
             "title": "#GamerLife",
-            "trending_number": "83",
+            "trending_number": "84",
             "tiktok_url": "https://www.tiktok.com/tag/GamerLife"
-        },
-        {
-            "id": "12799",
-            "img": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d7313cd73974b090df39da66cbbda3a5.png",
-            "title": "#stopmotion",
-            "trending_number": "74",
-            "tiktok_url": "https://www.tiktok.com/tag/stopmotion"
         },
         {
             "id": "1596469701878790",
@@ -113,6 +106,13 @@
             "title": "#kitchenhacks",
             "trending_number": "73",
             "tiktok_url": "https://www.tiktok.com/tag/kitchenhacks"
+        },
+        {
+            "id": "12799",
+            "img": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d7313cd73974b090df39da66cbbda3a5.png",
+            "title": "#stopmotion",
+            "trending_number": "73",
+            "tiktok_url": "https://www.tiktok.com/tag/stopmotion"
         },
         {
             "id": "5232",
