@@ -34,6 +34,8 @@ NAME_EXCEPTIONS = [
     'puta',
     'put0',
     'put4',
+    'gemidos',
+    'gemi2'
 ]
 
 
