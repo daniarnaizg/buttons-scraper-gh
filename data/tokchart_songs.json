@@ -1,107 +1,28 @@
 {
     "global": {
-        "id": "6814378834477975553",
-        "img": "https://tokchart.com/img/6814378834477975553/600",
-        "author": "Brenda Lee",
-        "title": "Rockin' Around The Christmas Tree",
-        "growing_number": "+20K",
-        "tiktok_url": "https://www.tiktok.com/music/rockin-around-the-christmas-tree-6814378834477975553"
+        "id": "6735762053471946754",
+        "img": "https://tokchart.com/img/6735762053471946754/600",
+        "author": "Princesa Alba",
+        "title": "Convéncete",
+        "growing_number": "+13K",
+        "tiktok_url": "https://www.tiktok.com/music/convencete-6735762053471946754"
     },
     "growing": {
-        "id": "7274873315533408258",
-        "img": "https://tokchart.com/img/7274873315533408258/600",
-        "author": "Patoranking",
-        "title": "Babylon",
-        "growing_number": "+7K",
-        "tiktok_url": "https://www.tiktok.com/music/babylon-7274873315533408258"
+        "id": "7301208471952214017",
+        "img": "https://tokchart.com/img/7301208471952214017/600",
+        "author": "Wanitwa Mos & Nkosazana Daughter & Master KG",
+        "title": "Keneilwe (feat. Dalom Kids)",
+        "growing_number": "+14K",
+        "tiktok_url": "https://www.tiktok.com/music/keneilwe-feat-dalom-kids-7301208471952214017"
     },
     "countries": {
         "spain": [
             {
-                "id": "6799590436236183553",
-                "img": "https://tokchart.com/img/6799590436236183553/600",
-                "author": "Koreko & Pusho & Anonimus",
-                "title": "No Me Conformo",
-                "tiktok_url": "https://www.tiktok.com/music/no-me-conformo-6799590436236183553"
-            },
-            {
-                "id": "6731151341764216834",
-                "img": "https://tokchart.com/img/6731151341764216834/600",
-                "author": "David Whistle",
-                "title": "Broken Ties - The Whistlers remix",
-                "tiktok_url": "https://www.tiktok.com/music/broken-ties-the-whistlers-remix-6731151341764216834"
-            },
-            {
-                "id": "6963156892739684354",
-                "img": "https://tokchart.com/img/6963156892739684354/600",
-                "author": "Maffio & Darell & Don Miguelo",
-                "title": "Elma Maria",
-                "tiktok_url": "https://www.tiktok.com/music/elma-maria-6963156892739684354"
-            },
-            {
-                "id": "7058082709977729026",
-                "img": "https://tokchart.com/img/7058082709977729026/600",
-                "author": "Abe Parker",
-                "title": "Butterflies",
-                "tiktok_url": "https://www.tiktok.com/music/butterflies-7058082709977729026"
-            },
-            {
-                "id": "6936178645819983874",
-                "img": "https://tokchart.com/img/6936178645819983874/600",
-                "author": "Chema Rivas & Juan Magán",
-                "title": "Anda Suelta",
-                "tiktok_url": "https://www.tiktok.com/music/anda-suelta-6936178645819983874"
-            },
-            {
-                "id": "7023066529428146177",
-                "img": "https://tokchart.com/img/7023066529428146177/200",
-                "author": "Belén Aguilera",
-                "title": "CAMALEÓN",
-                "tiktok_url": "https://www.tiktok.com/music/camaleon-7023066529428146177"
-            },
-            {
-                "id": "6886127229969893377",
-                "img": "https://tokchart.com/img/6886127229969893377/200",
-                "author": "Kaydy Cain & GARZI",
-                "title": "Hollywood",
-                "tiktok_url": "https://www.tiktok.com/music/hollywood-6886127229969893377"
-            },
-            {
-                "id": "6899777365275068417",
-                "img": "https://tokchart.com/img/6899777365275068417/200",
-                "author": "Bad Bunny",
-                "title": "TE MUDASTE",
-                "tiktok_url": "https://www.tiktok.com/music/te-mudaste-6899777365275068417"
-            },
-            {
-                "id": "6896793209838503938",
-                "img": "https://tokchart.com/img/6896793209838503938/200",
-                "author": "Sfera Ebbasta & J Balvin",
-                "title": "Baby",
-                "tiktok_url": "https://www.tiktok.com/music/baby-6896793209838503938"
-            },
-            {
-                "id": "243665847834329088",
-                "img": "https://tokchart.com/img/243665847834329088/200",
-                "author": "Ñejo & Gotay",
-                "title": "Esta Cabron",
-                "tiktok_url": "https://www.tiktok.com/music/esta-cabron-243665847834329088"
-            }
-        ],
-        "usa": [
-            {
-                "id": "6864635634376559366",
-                "img": "https://tokchart.com/img/6864635634376559366/600",
-                "author": "City Girls",
-                "title": "What We Doin'",
-                "tiktok_url": "https://www.tiktok.com/music/what-we-doin-6864635634376559366"
-            },
-            {
-                "id": "222453230176251905",
-                "img": "https://tokchart.com/img/222453230176251905/600",
-                "author": "Natalia Lafourcade",
-                "title": "Hasta la Raíz",
-                "tiktok_url": "https://www.tiktok.com/music/hasta-la-raiz-222453230176251905"
+                "id": "6969067278553860098",
+                "img": "https://tokchart.com/img/6969067278553860098/600",
+                "author": "Soso Maness",
+                "title": "Petrouchka (feat. PLK)",
+                "tiktok_url": "https://www.tiktok.com/music/petrouchka-feat-plk-6969067278553860098"
             },
             {
                 "id": "6844610572080794373",
@@ -111,104 +32,97 @@
                 "tiktok_url": "https://www.tiktok.com/music/dreams-2004-remaster-6844610572080794373"
             },
             {
-                "id": "6990410706927536902",
-                "img": "https://tokchart.com/img/6990410706927536902/600",
-                "author": "Tay Money",
-                "title": "The Assignment",
-                "tiktok_url": "https://www.tiktok.com/music/the-assignment-6990410706927536902"
+                "id": "6976753048529930242",
+                "img": "https://tokchart.com/img/6976753048529930242/600",
+                "author": "Lola Indigo & TINI & Belinda",
+                "title": "La Niña de la Escuela",
+                "tiktok_url": "https://www.tiktok.com/music/la-nina-de-la-escuela-6976753048529930242"
             },
             {
-                "id": "6820238050967177989",
-                "img": "https://tokchart.com/img/6820238050967177989/600",
-                "author": "Lisbett Wedendahl / LIFT YOUR MIND",
-                "title": "morgen meditation - guidet meditation",
-                "tiktok_url": "https://www.tiktok.com/music/morgen-meditation-guidet-meditation-6820238050967177989"
+                "id": "6795585271782967298",
+                "img": "https://tokchart.com/img/6795585271782967298/600",
+                "author": "L.Dre",
+                "title": "Steven Universe",
+                "tiktok_url": "https://www.tiktok.com/music/steven-universe-6795585271782967298"
             },
             {
-                "id": "6878744350931634950",
-                "img": "https://tokchart.com/img/6878744350931634950/200",
-                "author": "松原みき",
-                "title": "真夜中のドア〜stay with me",
-                "tiktok_url": "https://www.tiktok.com/music/stay-with-me-6878744350931634950"
+                "id": "6930109563903445765",
+                "img": "https://tokchart.com/img/6930109563903445765/600",
+                "author": "Dylan Fuentes & Myke Towers & Dayme y El High",
+                "title": "Ajena (with Myke Towers & Dayme y El High)",
+                "tiktok_url": "https://www.tiktok.com/music/ajena-with-myke-towers-dayme-y-el-high-6930109563903445765"
             },
             {
-                "id": "6878440054709028865",
-                "img": "https://tokchart.com/img/6878440054709028865/200",
-                "author": "Shawn Mendes",
-                "title": "Wonder",
-                "tiktok_url": "https://www.tiktok.com/music/wonder-6878440054709028865"
+                "id": "6847647314127932166",
+                "img": "https://tokchart.com/img/6847647314127932166/200",
+                "author": "Pop Smoke",
+                "title": "What You Know Bout Love",
+                "tiktok_url": "https://www.tiktok.com/music/what-you-know-bout-love-6847647314127932166"
             },
             {
-                "id": "6883993546467051522",
-                "img": "https://tokchart.com/img/6883993546467051522/200",
-                "author": "Justin Bieber & benny blanco",
-                "title": "Lonely",
-                "tiktok_url": "https://www.tiktok.com/music/lonely-6883993546467051522"
+                "id": "5000000001320781379",
+                "img": "https://tokchart.com/img/5000000001320781379/200",
+                "author": "Måneskin",
+                "title": "Beggin'",
+                "tiktok_url": "https://www.tiktok.com/music/beggin-5000000001320781379"
             },
             {
-                "id": "6911688776167312134",
-                "img": "https://tokchart.com/img/6911688776167312134/200",
-                "author": "Gipsy Kings",
-                "title": "Bamboleo",
-                "tiktok_url": "https://www.tiktok.com/music/bamboleo-6911688776167312134"
+                "id": "242977707800637440",
+                "img": "https://tokchart.com/img/242977707800637440/200",
+                "author": "Boney M.",
+                "title": "Rasputin (Single Version)",
+                "tiktok_url": "https://www.tiktok.com/music/rasputin-single-version-242977707800637440"
             },
             {
-                "id": "6805761702466947073",
-                "img": "https://tokchart.com/img/6805761702466947073/200",
-                "author": "Frances Forever",
-                "title": "space girl",
-                "tiktok_url": "https://www.tiktok.com/music/space-girl-6805761702466947073"
+                "id": "6826096341966456833",
+                "img": "https://tokchart.com/img/6826096341966456833/200",
+                "author": "Erica Banks",
+                "title": "Buss It",
+                "tiktok_url": "https://www.tiktok.com/music/buss-it-6826096341966456833"
+            },
+            {
+                "id": "6969702894073416453",
+                "img": "https://tokchart.com/img/6969702894073416453/200",
+                "author": "J Balvin & Maria Becerra",
+                "title": "Qué Más Pues?",
+                "tiktok_url": "https://www.tiktok.com/music/que-mas-pues-6969702894073416453"
             }
         ],
-        "uk": [
+        "usa": [
             {
-                "id": "6864635634376559366",
-                "img": "https://tokchart.com/img/6864635634376559366/600",
-                "author": "City Girls",
-                "title": "What We Doin'",
-                "tiktok_url": "https://www.tiktok.com/music/what-we-doin-6864635634376559366"
+                "id": "6844610572080794373",
+                "img": "https://tokchart.com/img/6844610572080794373/600",
+                "author": "Fleetwood Mac",
+                "title": "Dreams (2004 Remaster)",
+                "tiktok_url": "https://www.tiktok.com/music/dreams-2004-remaster-6844610572080794373"
             },
             {
-                "id": "222453230176251905",
-                "img": "https://tokchart.com/img/222453230176251905/600",
-                "author": "Natalia Lafourcade",
-                "title": "Hasta la Raíz",
-                "tiktok_url": "https://www.tiktok.com/music/hasta-la-raiz-222453230176251905"
+                "id": "6740248251825391617",
+                "img": "https://tokchart.com/img/6740248251825391617/600",
+                "author": "Labrinth",
+                "title": "Forever",
+                "tiktok_url": "https://www.tiktok.com/music/forever-6740248251825391617"
             },
             {
-                "id": "6990410706927536902",
-                "img": "https://tokchart.com/img/6990410706927536902/600",
-                "author": "Tay Money",
-                "title": "The Assignment",
-                "tiktok_url": "https://www.tiktok.com/music/the-assignment-6990410706927536902"
+                "id": "6894066988063131649",
+                "img": "https://tokchart.com/img/6894066988063131649/600",
+                "author": "Billie Eilish",
+                "title": "Therefore I Am",
+                "tiktok_url": "https://www.tiktok.com/music/therefore-i-am-6894066988063131649"
             },
             {
-                "id": "6820238050967177989",
-                "img": "https://tokchart.com/img/6820238050967177989/600",
-                "author": "Lisbett Wedendahl / LIFT YOUR MIND",
-                "title": "morgen meditation - guidet meditation",
-                "tiktok_url": "https://www.tiktok.com/music/morgen-meditation-guidet-meditation-6820238050967177989"
+                "id": "6717499894333966337",
+                "img": "https://tokchart.com/img/6717499894333966337/600",
+                "author": "Halloween DJ's",
+                "title": "Adams Family Theme Song",
+                "tiktok_url": "https://www.tiktok.com/music/adams-family-theme-song-6717499894333966337"
             },
             {
-                "id": "6878440054709028865",
-                "img": "https://tokchart.com/img/6878440054709028865/600",
-                "author": "Shawn Mendes",
-                "title": "Wonder",
-                "tiktok_url": "https://www.tiktok.com/music/wonder-6878440054709028865"
-            },
-            {
-                "id": "6911688776167312134",
-                "img": "https://tokchart.com/img/6911688776167312134/200",
-                "author": "Gipsy Kings",
-                "title": "Bamboleo",
-                "tiktok_url": "https://www.tiktok.com/music/bamboleo-6911688776167312134"
-            },
-            {
-                "id": "6805761702466947073",
-                "img": "https://tokchart.com/img/6805761702466947073/200",
-                "author": "Frances Forever",
-                "title": "space girl",
-                "tiktok_url": "https://www.tiktok.com/music/space-girl-6805761702466947073"
+                "id": "6883297755284949765",
+                "img": "https://tokchart.com/img/6883297755284949765/600",
+                "author": "The Black Eyed Peas",
+                "title": "Where Is The Love?",
+                "tiktok_url": "https://www.tiktok.com/music/where-is-the-love-6883297755284949765"
             },
             {
                 "id": "6889276181086996481",
@@ -218,11 +132,76 @@
                 "tiktok_url": "https://www.tiktok.com/music/pov-6889276181086996481"
             },
             {
+                "id": "6914711053674760193",
+                "img": "https://tokchart.com/img/6914711053674760193/200",
+                "author": "Olivia Rodrigo",
+                "title": "drivers license",
+                "tiktok_url": "https://www.tiktok.com/music/drivers-license-6914711053674760193"
+            },
+            {
+                "id": "6886946651135559682",
+                "img": "https://tokchart.com/img/6886946651135559682/200",
+                "author": "Ariana Grande",
+                "title": "positions",
+                "tiktok_url": "https://www.tiktok.com/music/positions-6886946651135559682"
+            },
+            {
+                "id": "57419989",
+                "img": "https://tokchart.com/img/57419989/200",
+                "author": "Aly & AJ",
+                "title": "Potential Breakup Song",
+                "tiktok_url": "https://www.tiktok.com/music/potential-breakup-song-57419989"
+            },
+            {
+                "id": "227302284517642240",
+                "img": "https://tokchart.com/img/227302284517642240/200",
+                "author": "Grover Washington, Jr.",
+                "title": "Just the Two of Us",
+                "tiktok_url": "https://www.tiktok.com/music/just-the-two-of-us-227302284517642240"
+            }
+        ],
+        "uk": [
+            {
                 "id": "6740248251825391617",
-                "img": "https://tokchart.com/img/6740248251825391617/200",
+                "img": "https://tokchart.com/img/6740248251825391617/600",
                 "author": "Labrinth",
                 "title": "Forever",
                 "tiktok_url": "https://www.tiktok.com/music/forever-6740248251825391617"
+            },
+            {
+                "id": "6889276181086996481",
+                "img": "https://tokchart.com/img/6889276181086996481/600",
+                "author": "Ariana Grande",
+                "title": "pov",
+                "tiktok_url": "https://www.tiktok.com/music/pov-6889276181086996481"
+            },
+            {
+                "id": "6886946651135559682",
+                "img": "https://tokchart.com/img/6886946651135559682/600",
+                "author": "Ariana Grande",
+                "title": "positions",
+                "tiktok_url": "https://www.tiktok.com/music/positions-6886946651135559682"
+            },
+            {
+                "id": "6911688776167312134",
+                "img": "https://tokchart.com/img/6911688776167312134/600",
+                "author": "Gipsy Kings",
+                "title": "Bamboleo",
+                "tiktok_url": "https://www.tiktok.com/music/bamboleo-6911688776167312134"
+            },
+            {
+                "id": "6805761702466947073",
+                "img": "https://tokchart.com/img/6805761702466947073/600",
+                "author": "Frances Forever",
+                "title": "space girl",
+                "tiktok_url": "https://www.tiktok.com/music/space-girl-6805761702466947073"
+            },
+            {
+                "id": "6896128359923714049",
+                "img": "https://tokchart.com/img/6896128359923714049/200",
+                "author": "Miley Cyrus",
+                "title": "Prisoner (feat. Dua Lipa)",
+                "tiktok_url": "https://www.tiktok.com/music/prisoner-feat-dua-lipa-6896128359923714049"
             },
             {
                 "id": "6907566405198841857",
@@ -230,88 +209,102 @@
                 "author": "Ed Sheeran",
                 "title": "Afterglow",
                 "tiktok_url": "https://www.tiktok.com/music/afterglow-6907566405198841857"
+            },
+            {
+                "id": "6820238050967177989",
+                "img": "https://tokchart.com/img/6820238050967177989/200",
+                "author": "Lisbett Wedendahl / LIFT YOUR MIND",
+                "title": "morgen meditation - guidet meditation",
+                "tiktok_url": "https://www.tiktok.com/music/morgen-meditation-guidet-meditation-6820238050967177989"
+            },
+            {
+                "id": "255240484879720448",
+                "img": "https://tokchart.com/img/255240484879720448/200",
+                "author": "Mary Mary",
+                "title": "Walking",
+                "tiktok_url": "https://www.tiktok.com/music/walking-255240484879720448"
+            },
+            {
+                "id": "6878440054709028865",
+                "img": "https://tokchart.com/img/6878440054709028865/200",
+                "author": "Shawn Mendes",
+                "title": "Wonder",
+                "tiktok_url": "https://www.tiktok.com/music/wonder-6878440054709028865"
             }
         ],
         "brazil": [
             {
-                "id": "7120706545079487237",
-                "img": "https://tokchart.com/img/7120706545079487237/600",
-                "author": "Os Quebradeiras & DJ Zullu & Machadez & Mousik & Thamirys",
-                "title": "Na Rebolada",
-                "tiktok_url": "https://www.tiktok.com/music/na-rebolada-7120706545079487237"
+                "id": "7263298233957354270",
+                "img": "https://tokchart.com/img/7263298233957354270/600",
+                "author": "Famous Sally & YB",
+                "title": "Wassup Gway",
+                "tiktok_url": "https://www.tiktok.com/music/wassup-gway-7263298233957354270"
             },
             {
-                "id": "7028498814554130433",
-                "img": "https://tokchart.com/img/7028498814554130433/600",
-                "author": "Anitta",
-                "title": "Envolver",
-                "tiktok_url": "https://www.tiktok.com/music/envolver-7028498814554130433"
+                "id": "294017956361990144",
+                "img": "https://tokchart.com/img/294017956361990144/600",
+                "author": "Soap&Skin",
+                "title": "Me and the Devil",
+                "tiktok_url": "https://www.tiktok.com/music/me-and-the-devil-294017956361990144"
             },
             {
-                "id": "7039394276502489089",
-                "img": "https://tokchart.com/img/7039394276502489089/600",
-                "author": "MC Nau",
-                "title": "Pisadinha Jingle Bell",
-                "tiktok_url": "https://www.tiktok.com/music/pisadinha-jingle-bell-7039394276502489089"
+                "id": "7094353534036019974",
+                "img": "https://tokchart.com/img/7094353534036019974/600",
+                "author": "Mc Paiva ZS & Kotim",
+                "title": "Bagulho Louco",
+                "tiktok_url": "https://www.tiktok.com/music/bagulho-louco-7094353534036019974"
             },
             {
-                "id": "7037586224344779525",
-                "img": "https://tokchart.com/img/7037586224344779525/600",
-                "author": "Dj Guuga",
-                "title": "Depende",
-                "tiktok_url": "https://www.tiktok.com/music/depende-7037586224344779525"
+                "id": "7266229974662990597",
+                "img": "https://tokchart.com/img/7266229974662990597/600",
+                "author": "Fabrício Cesar",
+                "title": "Eu Nunca nem vi",
+                "tiktok_url": "https://www.tiktok.com/music/eu-nunca-nem-vi-7266229974662990597"
             },
             {
-                "id": "7038873785419712513",
-                "img": "https://tokchart.com/img/7038873785419712513/600",
-                "author": "Anitta & PEDRO SAMPAIO",
-                "title": "NO CHÃO NOVINHA",
-                "tiktok_url": "https://www.tiktok.com/music/no-chao-novinha-7038873785419712513"
+                "id": "6997999797663714054",
+                "img": "https://tokchart.com/img/6997999797663714054/600",
+                "author": "Yung Lean",
+                "title": "Ginseng Strip 2002",
+                "tiktok_url": "https://www.tiktok.com/music/ginseng-strip-2002-6997999797663714054"
             },
             {
-                "id": "7264665251096824608",
-                "img": "https://tokchart.com/img/7264665251096824608/200",
-                "author": "nada",
-                "title": "original sound - nada",
-                "tiktok_url": "https://www.tiktok.com/music/original-sound-nada-7264665251096824608"
+                "id": "7182566744584620805",
+                "img": "https://tokchart.com/img/7182566744584620805/200",
+                "author": "",
+                "title": "",
+                "tiktok_url": "https://www.tiktok.com/music/-7182566744584620805"
             },
             {
-                "id": "7041090037160609794",
-                "img": "https://tokchart.com/img/7041090037160609794/200",
-                "author": "Gloria Groove",
-                "title": "A QUEDA - Piseiro Remix",
-                "tiktok_url": "https://www.tiktok.com/music/a-queda-piseiro-remix-7041090037160609794"
+                "id": "7292535169948306182",
+                "img": "https://tokchart.com/img/7292535169948306182/200",
+                "author": "gustz",
+                "title": "original sound - 7pagani",
+                "tiktok_url": "https://www.tiktok.com/music/original-sound-7pagani-7292535169948306182"
             },
             {
-                "id": "7276913815176891141",
-                "img": "https://tokchart.com/img/7276913815176891141/200",
-                "author": "AV music",
-                "title": "som original - _av_music",
-                "tiktok_url": "https://www.tiktok.com/music/som-original-av-music-7276913815176891141"
+                "id": "7266144790933129989",
+                "img": "https://tokchart.com/img/7266144790933129989/200",
+                "author": "Caio",
+                "title": "TREND CAIOREVERSE E FP",
+                "tiktok_url": "https://www.tiktok.com/music/trend-caioreverse-e-fp-7266144790933129989"
             },
             {
-                "id": "7087632777503329030",
-                "img": "https://tokchart.com/img/7087632777503329030/200",
-                "author": "WZ Beat",
-                "title": "Beat Automotivo Tan Tan Tan Viral",
-                "tiktok_url": "https://www.tiktok.com/music/beat-automotivo-tan-tan-tan-viral-7087632777503329030"
+                "id": "7031951971201091585",
+                "img": "https://tokchart.com/img/7031951971201091585/200",
+                "author": "Xamã & Gustah & Neo Beats & Bagua Records",
+                "title": "Malvadão 3",
+                "tiktok_url": "https://www.tiktok.com/music/malvadao-3-7031951971201091585"
             },
             {
-                "id": "6942717379948792582",
-                "img": "https://tokchart.com/img/6942717379948792582/200",
-                "author": "Meme page",
-                "title": "som original - atlantatweets.s",
-                "tiktok_url": "https://www.tiktok.com/music/som-original-atlantatweetss-6942717379948792582"
+                "id": "7274367188088130309",
+                "img": "https://tokchart.com/img/7274367188088130309/200",
+                "author": "diniz",
+                "title": "original sound - njrdiniz",
+                "tiktok_url": "https://www.tiktok.com/music/original-sound-njrdiniz-7274367188088130309"
             }
         ],
         "germany": [
-            {
-                "id": "7071281831944914945",
-                "img": "https://tokchart.com/img/7071281831944914945/600",
-                "author": "HE/RO",
-                "title": "Zu schön um wahr zu sein",
-                "tiktok_url": "https://www.tiktok.com/music/zu-schon-um-wahr-zu-sein-7071281831944914945"
-            },
             {
                 "id": "6974011130414893058",
                 "img": "https://tokchart.com/img/6974011130414893058/600",
@@ -320,11 +313,18 @@
                 "tiktok_url": "https://www.tiktok.com/music/bad-habits-6974011130414893058"
             },
             {
-                "id": "6962136464469526530",
-                "img": "https://tokchart.com/img/6962136464469526530/600",
-                "author": "Milky Chance",
-                "title": "Colorado - Main Version",
-                "tiktok_url": "https://www.tiktok.com/music/colorado-main-version-6962136464469526530"
+                "id": "6967073900530239489",
+                "img": "https://tokchart.com/img/6967073900530239489/600",
+                "author": "Rocco Hunt & Ana Mena",
+                "title": "Un bacio all'improvviso",
+                "tiktok_url": "https://www.tiktok.com/music/un-bacio-allimprovviso-6967073900530239489"
+            },
+            {
+                "id": "6967274907499497473",
+                "img": "https://tokchart.com/img/6967274907499497473/600",
+                "author": "Alan Walker & Imanbek",
+                "title": "Sweet Dreams",
+                "tiktok_url": "https://www.tiktok.com/music/sweet-dreams-6967274907499497473"
             },
             {
                 "id": "6812884237704759298",
@@ -334,11 +334,11 @@
                 "tiktok_url": "https://www.tiktok.com/music/goalgetter-6812884237704759298"
             },
             {
-                "id": "7036343214723090433",
-                "img": "https://tokchart.com/img/7036343214723090433/600",
-                "author": "AK 33 & SIL3A",
-                "title": "Iba3ash",
-                "tiktok_url": "https://www.tiktok.com/music/iba3ash-7036343214723090433"
+                "id": "6984736802289272834",
+                "img": "https://tokchart.com/img/6984736802289272834/600",
+                "author": "Montez",
+                "title": "Auf & Ab",
+                "tiktok_url": "https://www.tiktok.com/music/auf-ab-6984736802289272834"
             },
             {
                 "id": "6988584316469005062",
@@ -348,6 +348,13 @@
                 "tiktok_url": "https://www.tiktok.com/music/61-grad-6988584316469005062"
             },
             {
+                "id": "7055685946238306305",
+                "img": "https://tokchart.com/img/7055685946238306305/200",
+                "author": "AYLIVA",
+                "title": "Schmetterlinge",
+                "tiktok_url": "https://www.tiktok.com/music/schmetterlinge-7055685946238306305"
+            },
+            {
                 "id": "7065267257873532930",
                 "img": "https://tokchart.com/img/7065267257873532930/200",
                 "author": "Miksu / Macloud & t-low",
@@ -355,25 +362,18 @@
                 "tiktok_url": "https://www.tiktok.com/music/sehnsucht-7065267257873532930"
             },
             {
-                "id": "6967073900530239489",
-                "img": "https://tokchart.com/img/6967073900530239489/200",
-                "author": "Rocco Hunt & Ana Mena",
-                "title": "Un bacio all'improvviso",
-                "tiktok_url": "https://www.tiktok.com/music/un-bacio-allimprovviso-6967073900530239489"
+                "id": "7071281831944914945",
+                "img": "https://tokchart.com/img/7071281831944914945/200",
+                "author": "HE/RO",
+                "title": "Zu schön um wahr zu sein",
+                "tiktok_url": "https://www.tiktok.com/music/zu-schon-um-wahr-zu-sein-7071281831944914945"
             },
             {
-                "id": "6967274907499497473",
-                "img": "https://tokchart.com/img/6967274907499497473/200",
-                "author": "Alan Walker & Imanbek",
-                "title": "Sweet Dreams",
-                "tiktok_url": "https://www.tiktok.com/music/sweet-dreams-6967274907499497473"
-            },
-            {
-                "id": "7055685946238306305",
-                "img": "https://tokchart.com/img/7055685946238306305/200",
-                "author": "AYLIVA",
-                "title": "Schmetterlinge",
-                "tiktok_url": "https://www.tiktok.com/music/schmetterlinge-7055685946238306305"
+                "id": "6962136464469526530",
+                "img": "https://tokchart.com/img/6962136464469526530/200",
+                "author": "Milky Chance",
+                "title": "Colorado - Main Version",
+                "tiktok_url": "https://www.tiktok.com/music/colorado-main-version-6962136464469526530"
             }
         ],
         "france": [
@@ -450,74 +450,74 @@
         ],
         "mexico": [
             {
-                "id": "7117713830515346182",
-                "img": "https://tokchart.com/img/7117713830515346182/600",
-                "author": "Hombres G",
-                "title": "Marta tiene un marcapasos",
-                "tiktok_url": "https://www.tiktok.com/music/marta-tiene-un-marcapasos-7117713830515346182"
+                "id": "6982484245067368449",
+                "img": "https://tokchart.com/img/6982484245067368449/600",
+                "author": "BTS",
+                "title": "Permission to Dance",
+                "tiktok_url": "https://www.tiktok.com/music/permission-to-dance-6982484245067368449"
             },
             {
-                "id": "7187816271247853569",
-                "img": "https://tokchart.com/img/7187816271247853569/600",
-                "author": "Miley Cyrus",
-                "title": "Flowers",
-                "tiktok_url": "https://www.tiktok.com/music/flowers-7187816271247853569"
+                "id": "7186137741745195822",
+                "img": "https://tokchart.com/img/7186137741745195822/600",
+                "author": "Oscar Maydan",
+                "title": "Fin De Semana",
+                "tiktok_url": "https://www.tiktok.com/music/fin-de-semana-7186137741745195822"
             },
             {
-                "id": "7008232356955884294",
-                "img": "https://tokchart.com/img/7008232356955884294/600",
-                "author": "Giblack & K7 Estudio E.U",
-                "title": "El Avioncito",
-                "tiktok_url": "https://www.tiktok.com/music/el-avioncito-7008232356955884294"
+                "id": "7022765400865655557",
+                "img": "https://tokchart.com/img/7022765400865655557/600",
+                "author": "zzoilo & Aitana",
+                "title": "Mon Amour - Remix",
+                "tiktok_url": "https://www.tiktok.com/music/mon-amour-remix-7022765400865655557"
             },
             {
-                "id": "7015031628485397254",
-                "img": "https://tokchart.com/img/7015031628485397254/600",
-                "author": "La Factoria",
-                "title": "Moriré",
-                "tiktok_url": "https://www.tiktok.com/music/morire-7015031628485397254"
+                "id": "7087001498416384774",
+                "img": "https://tokchart.com/img/7087001498416384774/600",
+                "author": "Bad Bunny",
+                "title": "Me Fui de Vacaciones",
+                "tiktok_url": "https://www.tiktok.com/music/me-fui-de-vacaciones-7087001498416384774"
             },
             {
-                "id": "6701931260073232386",
-                "img": "https://tokchart.com/img/6701931260073232386/600",
-                "author": "Denise De Kalafe",
-                "title": "Señora, Señora",
-                "tiktok_url": "https://www.tiktok.com/music/senora-senora-6701931260073232386"
+                "id": "6981869640796342274",
+                "img": "https://tokchart.com/img/6981869640796342274/600",
+                "author": "The Kid LAROI & Justin Bieber",
+                "title": "STAY",
+                "tiktok_url": "https://www.tiktok.com/music/stay-6981869640796342274"
             },
             {
-                "id": "6979906328823204613",
-                "img": "https://tokchart.com/img/6979906328823204613/200",
-                "author": "Rauw Alejandro",
-                "title": "Cúrame",
-                "tiktok_url": "https://www.tiktok.com/music/curame-6979906328823204613"
+                "id": "7076281174691973122",
+                "img": "https://tokchart.com/img/7076281174691973122/200",
+                "author": "ROSALÍA",
+                "title": "BIZCOCHITO",
+                "tiktok_url": "https://www.tiktok.com/music/bizcochito-7076281174691973122"
             },
             {
-                "id": "7006415372777786117",
-                "img": "https://tokchart.com/img/7006415372777786117/200",
-                "author": "Tokischa & ROSALÍA",
-                "title": "Linda",
-                "tiktok_url": "https://www.tiktok.com/music/linda-7006415372777786117"
+                "id": "7177536247461202693",
+                "img": "https://tokchart.com/img/7177536247461202693/200",
+                "author": "Cris Mj & Duki & Nicki Nicole",
+                "title": "Marisola - Remix",
+                "tiktok_url": "https://www.tiktok.com/music/marisola-remix-7177536247461202693"
             },
             {
-                "id": "7040856930914945797",
-                "img": "https://tokchart.com/img/7040856930914945797/200",
-                "author": "Justin Quiles & Sech & Dímelo Flow",
-                "title": "Tu Pollo",
-                "tiktok_url": "https://www.tiktok.com/music/tu-pollo-7040856930914945797"
+                "id": "6880017165911640838",
+                "img": "https://tokchart.com/img/6880017165911640838/200",
+                "author": "Kayla Nicole",
+                "title": "Bundles (feat. Taylor Girlz)",
+                "tiktok_url": "https://www.tiktok.com/music/bundles-feat-taylor-girlz-6880017165911640838"
             },
             {
-                "id": "7095407294631987973",
-                "img": "https://tokchart.com/img/7095407294631987973/200",
-                "author": "Bad Bunny & Chencho Corleone",
-                "title": "Me Porto Bonito",
-                "tiktok_url": "https://www.tiktok.com/music/me-porto-bonito-7095407294631987973"
+                "id": "6969874712394550022",
+                "img": "https://tokchart.com/img/6969874712394550022/200",
+                "author": "Becky G & El Alfa",
+                "title": "Fulanito",
+                "tiktok_url": "https://www.tiktok.com/music/fulanito-6969874712394550022"
             },
             {
-                "id": "7064009567205935878",
-                "img": "https://tokchart.com/img/7064009567205935878/200",
-                "author": "Lenny Tavárez & Randy & De La Ghetto",
-                "title": "La Pared 720 (feat. Justin Quiles, Brray)",
-                "tiktok_url": "https://www.tiktok.com/music/la-pared-720-feat-justin-quiles-brray-7064009567205935878"
+                "id": "7084303665602775814",
+                "img": "https://tokchart.com/img/7084303665602775814/200",
+                "author": "Polimá Westcoast & Pailita",
+                "title": "ULTRA SOLO (Solo y coronao ¿De qué sirve? Si no estás a mi lao' Por ti paso el día conectau, pendiente al cel, pendiente a ti, pendiente si subes una story)",
+                "tiktok_url": "https://www.tiktok.com/music/ultra-solo-solo-y-coronao-de-que-sirve-si-no-estas-a-mi-lao-por-ti-paso-el-dia-conectau-pendiente-al-cel-pendiente-a-ti-pendiente-si-subes-una-story-7084303665602775814"
             }
         ]
     }
